@@ -10,4 +10,4 @@ services:
     build:
       context: src/main/angular
     ports:
-      - "80:80"
+      - "4200:4200"
